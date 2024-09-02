@@ -1360,6 +1360,8 @@ Software that does not fit in another section.
 - [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
+- [wmWebStack](https://webstack.wikimint.com) - A localhost server stack enabling live publishing in one button click. Your clients can visit your localhost web projects through public internet instantly. ([Source Code](https://github.com/wikimint/wmWebStack/releases/latest)) `MIT` `C`
+
 
 
 ### Money, Budgeting & Management
